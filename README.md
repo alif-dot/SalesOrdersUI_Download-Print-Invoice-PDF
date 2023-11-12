@@ -1,5 +1,60 @@
 # SalesOrdersUI
 
+![Screenshot of Invoiceapp](https://github.com/alif-dot/SalesOrdersUI_Download-Print-Invoice-PDF/assets/62230465/105c750d-99e0-4e7e-9f87-35f163a806b7)
+
+![Screenshot of Invoiceapp (2)](https://github.com/alif-dot/SalesOrdersUI_Download-Print-Invoice-PDF/assets/62230465/daf30979-209a-449d-91eb-c424df44c56d)
+
+![Screenshot of Invoiceapp (3)](https://github.com/alif-dot/SalesOrdersUI_Download-Print-Invoice-PDF/assets/62230465/c7817f61-4541-41c6-ac49-169c39b924ab)
+
+![Screenshot of Invoiceapp (4)](https://github.com/alif-dot/SalesOrdersUI_Download-Print-Invoice-PDF/assets/62230465/0e96a9b8-7cef-4a31-a6cc-36f89e5d91ae)
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+⁜ Install 'ngx-toastr' Module:
+
+Make sure that you have the 'ngx-toastr' module installed in your Angular project. You can install it using npm or yarn. Open a terminal and run one of the following commands in your project directory:
+
+	Using npm:
+
+	npm install ngx-toastr
+
+⁜ Install '@ng-bootstrap/ng-bootstrap':
+
+Make sure that you have the '@ng-bootstrap/ng-bootstrap' module installed in your Angular project. You can install it using npm or yarn. Open a terminal and run one of the following commands in your project directory:
+
+	Using npm:
+
+	npm install --save @ng-bootstrap/ng-bootstrap
+
+⁜ Install 'ngx-extended-pdf-viewer':
+
+Make sure that you have the 'ngx-extended-pdf-viewer' module installed in your Angular project. You can install it using npm or yarn. Open a terminal and run one of the following commands in your project directory:
+
+	Using npm:
+
+	npm install --save ngx-extended-pdf-viewer
+
+⁜ Install 'angular-datatables':
+
+Make sure that you have the 'angular-datatables' module installed in your Angular project. You can install it using npm or yarn. Open a terminal and run one of the following commands in your project directory:
+
+	Using npm:
+
+	npm install --save angular-datatables
+ 
+	npm install --save @types/datatables.net
+
+⁜ Install '@types/datatables.net':
+
+To enable TypeScript to understand and provide type definitions for 'datatables.net', you need to install the corresponding type definitions. You can do this by installing the @types/datatables.net package:
+
+Open your terminal and run the following command in your project directory:
+
+	npm install --save @types/datatables.net
+
+---------------------------------------------------------------------------------------------------------------------
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
 
 ## Development server
